@@ -17,8 +17,7 @@ Un conductímetro portátil basado en **Arduino Nano**, que integra:
 1. **Sensor TDS (Gravity V1.0)** con curva polinómica cúbica para estimar concentración de NaCl (ppm).  
 2. **Sensor de temperatura DS18B20** con compensación térmica en tiempo real.  
 3. **Pantalla OLED 1.3″ SSD1306** para visualización instantánea.  
-4. **Módulo microSD** para registro de mediciones con fecha/hora.  
-5. **Alertas multisensoriales** (visual en OLED + sonora con buzzer) y flujo guiado de operación.
+4. **Alertas multisensoriales** (visual en OLED + sonora con buzzer) y flujo guiado de operación.
 
 
 ## Diagrama de conexiones  
