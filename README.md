@@ -26,7 +26,7 @@ Un conductímetro portátil basado en **Arduino Nano**, que integra:
 ---
 
 ## Diagrama de conexiones  
-![Diagrama de conexiones completo](docs/diagrama_conexiones.png)  
+![Diagrama de conexiones completo](diagrama_conexiones.png)
 *Figura: Conexiones entre batería LiPo, módulos auxiliares, Arduino Nano, sensores y pantalla OLED.*
 
 > **Notas de cableado**  
